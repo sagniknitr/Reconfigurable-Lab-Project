@@ -6,4 +6,4 @@
 
 ## Simulations 
 
-[!Timing Diagrams](https://cloud.githubusercontent.com/assets/17951883/24829412/01a48356-1c8f-11e7-8203-b00df88c6eaf.jpg)
+[!Timing Diagram](https://cloud.githubusercontent.com/assets/17951883/24829412/01a48356-1c8f-11e7-8203-b00df88c6eaf.jpg)
